@@ -1,11 +1,14 @@
 {
 	"name": "cssrules-loader",
 	"version": "0.0.1",
-  "author": "Goodvidio",
+	"author": "Goodvidio",
 	"description": "raw loader module for webpack",
 	"repository": {
 		"type": "git",
 		"url": "git@github.com:goodvidio/cssrules-loader.git"
+	},
+	"dependencies": {
+		"cssrules": "0.3.2"
 	},
 	"license": "MIT"
 }
