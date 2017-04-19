@@ -9,7 +9,7 @@ npm install --save-dev cssrules-loader
 
 ## Example
 
-> webpack.config.js file
+webpack.config.js file
 
 ```
 module: {
@@ -30,7 +30,7 @@ module: {
 }
 ```
 
-> index.js
+index.js
 
 ```
 var consumableCssrulesArray = require('style.scss');
